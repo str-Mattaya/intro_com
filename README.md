@@ -5,9 +5,3 @@
 ## แนะนำโปรแกรม
   - Code::Blocks
   - Dev-C++
-
-# Index
-  + **[Labs](https://github.com/Strelyx/intro_com/tree/main/Labs)** : งานแล็บ
-  + **[Final](https://github.com/Strelyx/intro_com/tree/main/Final)** : ข้อสอบเก่า (ภาษา C)
-    - **[key](https://github.com/Strelyx/intro_com/tree/main/Final/key)**   : เฉลยบางปี
-    - **[exam](https://github.com/Strelyx/intro_com/tree/main/Final/exam)** : โจทย์ข้อสอบเก่า
